@@ -1,16 +1,21 @@
 # rick_and_morty
 
-A new Flutter project.
+### Packages
+| Package                   | Details                          |
+|---------------------------|----------------------------------|
+| - [X]  Localiozation      | Flutter Localizations SDK + intl | 
+| - [X]  Riverpod           | App State Management             |
+| - [X]  AutoRoute          | App Navigation                   |
+| - [X]  Dio                | Networking                       |
+| - [X]  shared preferences | Normal Caching                   |
+| - [X]  JSON Serializable  | Modeling                         |
 
-## Getting Started
+### Features (Phase 1)
+- [ ] Charectuers
+    - [ ] Grid of charectuers
+    - [ ] List of charectuers
+    - [ ] Button to change between Grid & List
+    - [ ] Pagination (Scroll in the IOS/Android)
+    - [ ] Pagination (pervios - Next in Web)
+    - [ ] Filter
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
