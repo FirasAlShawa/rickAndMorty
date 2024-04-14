@@ -12,9 +12,9 @@
 
 ### Features (Phase 1)
 - [ ] Charectuers
-    - [ ] Grid of charectuers
-    - [ ] List of charectuers
-    - [ ] Button to change between Grid & List
+    - [X] Grid of charectuers
+    - [X] List of charectuers
+    - [X] Button to change between Grid & List
     - [ ] Pagination (Scroll in the IOS/Android)
     - [ ] Pagination (pervios - Next in Web)
     - [ ] Filter
